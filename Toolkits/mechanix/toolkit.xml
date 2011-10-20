@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<toolkit>
+	<name>mechanix</name>
+	<version>1.0</version>
+	<toolkitClass>com.learning.slate.toolkits.mechanix.MechanixToolkit</toolkitClass>
+   	<tangibles>
+   		<tangible name="InclinedPlane1" img="inclined_plane_1.png" rotates="true"  tutorial="t3" />
+   		<tangible name="InclinedPlane2" img="inclined_plane_2.png" rotates="true"  tutorial="t3" />
+   		<tangible name="WheelAndAxle"   img="wheel_and_axle.png"   rotates="false" tutorial="t4" />
+   		<tangible name="Home"           img="home.png"             rotates="true"  tutorial="t5" />
+   		<tangible name="Lever"          img="lever.png"            rotates="false" tutorial="t6" />
+   		<tangible name="Monster"        img="monster.png"          rotates="true"  tutorial="t7" />
+   	</tangibles>
+   	<tutorials>
+   		<tutorial name="t2"                         img="wedge.png"          slideCount="1" />
+   		<tutorial name="t3" folder="inclined_plane" img="inclined_plane.png" slideCount="2" />
+   		<tutorial name="t4" folder="wheel_and_axle" img="wheel_and_axle.png" slideCount="2" />
+   		<tutorial name="t5"                         img="home.png"           slideCount="1" />
+   		<tutorial name="t6" folder="lever"          img="lever.png"          slideCount="2" />
+   		<tutorial name="t7"                         img="monster.png"        slideCount="1" />
+   	</tutorials>
+</toolkit>

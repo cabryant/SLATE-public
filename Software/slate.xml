@@ -1,0 +1,13 @@
+<slate>
+  <calibration offsetX="-7.1376343" offsetY="8.197388" distortionOffsetXHi="-30.504948" distortionOffsetXLo="-44.07" distortionOffsetYHi="-8.011323" distortionOffsetYLo="1.6446059"/>
+  <toolkit>mechanix</toolkit>
+  <helpParadigm>Simple</helpParadigm>
+  <rotationParadigm>Bounded</rotationParadigm>
+  <networkRole>Server</networkRole>
+  <serverIp>171.64.184.216</serverIp>
+  <serverPort>4444</serverPort>
+  <sensitivityFactor>4.25</sensitivityFactor>
+  <tangibleBaseInches>2.5</tangibleBaseInches>
+  <displayWidthInches>17.5</displayWidthInches>
+  <displayHeightInches>23.5</displayHeightInches>
+</slate>
